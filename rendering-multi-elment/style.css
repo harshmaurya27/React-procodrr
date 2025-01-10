@@ -1,0 +1,29 @@
+.card {
+  max-width: 250px;
+  background-color: rgb(197, 182, 182);
+  padding: 10px;
+  border-radius: 5px;
+}
+.card img {
+  width: 100%;
+  border-radius: 4px;
+}
+.card-content {
+  color: rgb(21, 14, 10);
+}
+.card h2 {
+  margin-top: -2px;
+  text-align: center;
+
+  font-size: 34px;
+}
+
+.card p {
+  margin-top: -10px;
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
