@@ -1,0 +1,33 @@
+.card {
+  background-color: #c5b6b6;
+  border-radius: 5px;
+  max-width: 250px;
+  padding: 10px;
+}
+
+.card img {
+  border-radius: 4px;
+  width: 100%;
+}
+
+.card-content {
+  color: #150e0a;
+}
+
+.card h2 {
+  text-align: center;
+  margin-top: -2px;
+  font-size: 34px;
+}
+
+.card p {
+  text-align: center;
+  margin-top: -10px;
+}
+
+.container {
+  flex-wrap: wrap;
+  gap: 12px;
+  display: flex;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
